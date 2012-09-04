@@ -1,4 +1,4 @@
 AV-Spec
 =======
 
-Audio-Visual specifications
+AV-Spec is an interactive Audio-Visual specifications document written in html5.
